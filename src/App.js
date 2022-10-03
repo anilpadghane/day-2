@@ -2,7 +2,6 @@
 import React from 'react';
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
 import Header from './component/Header';
-import './App.css'
 import Home from './component/Home';
 import Student from './component/Student';
 import Contact from './component/Contact';
